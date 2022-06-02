@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 2.34.3
+
+* Add `datadog.securityAgent.runtime.fimEnabled` configuration to enable CWS File Integrity Monitoring.
+
 ## 2.34.2
 
 * Default Cluster Agent image to `1.20.0`.
